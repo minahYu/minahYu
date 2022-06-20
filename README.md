@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <a><img src="https://img.shields.io/badge/Python-3776AB?sytle=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+ <a><img src="https://img.shields.io/badge/Python-3776AB?sytle=flat-square&logo=Python&logoColor=white"/></a>
  <a><img src="https://img.shields.io/badge/C-A8B9CC?sytle=flat-square&logo=C&logoColor=white"/></a>&nbsp
- <a><img src="https://img.shields.io/badge/C++-00599C?sytle=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
- <a><img src="https://img.shields.io/badge/Java-3776AB?sytle=flat-square&logo=Java&logoColor=white"/></a>&nbsp
- <a><img src="https://img.shields.io/badge/Kotiln-7F52FF?sytle=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+ <a><img src="https://img.shields.io/badge/C++-00599C?sytle=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Java-3776AB?sytle=flat-square&logo=Java&logoColor=white"/></a>
+ <a><img src="https://img.shields.io/badge/Kotiln-7F52FF?sytle=flat-square&logo=Kotlin&logoColor=white"/></a>
 
 
 
